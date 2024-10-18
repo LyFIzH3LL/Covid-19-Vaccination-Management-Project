@@ -54,7 +54,7 @@ The project includes the following main functionalities:
 To clone this repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/repo-name.git
+git clone https://github.com/LyFIzH3LL/Covid-19-Vaccination-Management-Project.git
 ```
 
 ### Navigate to the project directory
